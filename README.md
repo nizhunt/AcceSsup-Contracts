@@ -47,3 +47,27 @@ The second phase involves creating a marketplace for buying, selling, and rentin
 3. **Royalties for Original Providers**: Original providers earn royalties on secondary market transactions.
 4. **User Feedback Mechanism**: Ratings and reviews help guide users in making informed choices.
 5. **Smart Contract Automation**: The marketplace uses smart contracts for seamless and secure transactions.
+
+### Total Addressable Market (TAM) for NFT-Based Subscription Access Protocol
+
+**Market Overview:**
+Our NFT-based subscription access protocol operates at the intersection of two rapidly expanding markets: the Non-Fungible Token (NFT) market and the online subscription services market.
+
+**NFT Market Dynamics:**
+
+- **Current Valuation and Growth**: The NFT market, valued at USD 26.98 billion in 2023, is anticipated to skyrocket to USD 211.72 billion by 2030, advancing at a CAGR of 34.2%.
+- **Dominant Segments**: Key drivers include digital art and gaming, marking areas of substantial opportunity.
+- **Geographical Trends**: North America shows strong market dominance, while Asia demonstrates vast potential for growth.
+
+**Online Subscription Services Insights:**
+
+- **Diverse Models**: This market encompasses replenishment, curation, and access subscriptions, with a significant lead by curation subscriptions due to their personalized nature.
+- **Key Sectors**: Sectors like health and fitness, food and beverages, apparel, entertainment, and especially beauty and personal care (the largest market share) present vast opportunities.
+- **Digital Subscription Evolution**: With sectors like banking, retail, media, and entertainment contributing, the digital subscription space is poised for significant growth, especially in North America and Europe, along with a rapid expansion in the Asia Pacific region.
+
+**Estimating TAM for Our Service:**
+Our service strategically situates within these booming markets, targeting the lucrative intersection of NFTs and digital subscriptions. The TAM for our NFT-based subscription protocol is, therefore, a considerable subset of these combined markets. This positions us uniquely to exploit the rapid growth in both the NFT sector and the burgeoning digital subscription space.
+
+**Strategic Focus:**
+
+- **Target Segments**: Given our unique offering, we will focus on segments like entertainment, health and fitness, and personalized digital services, which are key growth areas in the subscription services market.
